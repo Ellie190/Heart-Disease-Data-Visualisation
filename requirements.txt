@@ -1,0 +1,15 @@
+shiny
+shinydashboard
+stringr
+tidyverse
+scales
+ggplot2
+plotly
+knitr
+DT
+rpivotTable
+openintro
+tidyr
+rlang
+shinycssloaders
+flexdashboard

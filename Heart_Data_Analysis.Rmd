@@ -1,0 +1,285 @@
+---
+title: "Heart Disease Data Analysis"
+author: "Eli Nimy"
+date: "09/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r warning=FALSE, message=FALSE}
+source("utils/loadpackages.R")
+```
+
+
+```{r warning=FALSE, message=FALSE}
+# Read data 
+hd_df <- read.csv("Heart_Data.csv")
+```
+
+
+```{r warning=FALSE, message=FALSE}
+# Removing the first column 
+hd_df <- hd_df[,2:ncol(hd_df)]
+```
+
+
+```{r warning=FALSE, message=FALSE}
+hd_df
+```
+
+
+```{r warning=FALSE, message=FALSE}
+# Renaming columns 
+names(hd_df)[names(hd_df) == "age"] <- "Age"
+names(hd_df)[names(hd_df) == "sex"] <- "Sex"
+names(hd_df)[names(hd_df) == "cp"] <- "Chest pain type"
+names(hd_df)[names(hd_df) == "trestbps"] <- "Resting blood pressure (in mm Hg on admission to the hospital)"
+names(hd_df)[names(hd_df) == "chol"] <- "Serum cholestoral in mg/dl"
+names(hd_df)[names(hd_df) == "fbs"] <- "Fasting blood sugar > 120 mg/dl"
+names(hd_df)[names(hd_df) == "restecg"] <- "Resting electrocardiography results"
+names(hd_df)[names(hd_df) == "thalach"] <- "Maximum heart rate achieved"
+names(hd_df)[names(hd_df) == "exang"] <- "Exercise induced angina"
+names(hd_df)[names(hd_df) == "oldpeak"] <- "ST depression induced by exercise relative to rest"
+names(hd_df)[names(hd_df) == "slope"] <- "The slope of the peak exercise ST segment"
+names(hd_df)[names(hd_df) == "ca"] <- "Number of major vessels colored by fluoroscopic"
+names(hd_df)[names(hd_df) == "thal"] <- "Status of the heart"
+names(hd_df)[names(hd_df) == "target"] <- "Heart Disease"
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+hd_df
+```
+
+### Data Visualisation 
+#### Comparison 
+```{r warning=FALSE, message=FALSE}
+comdata <- hd_df %>% 
+  group_by(`Chest pain type`, `Heart Disease`) %>% 
+  summarise(n = n()) %>% 
+  mutate(percent = n/sum(n), 
+         lbl = scales::percent(percent))
+
+cplot <- comdata %>% 
+  ggplot(aes(x = reorder(`Chest pain type`, -n),
+             y = percent, fill = `Heart Disease`)) +
+  geom_bar(stat = "identity",
+           position = "dodge") +
+  geom_text(aes(label = lbl),
+        vjust = -0.25,
+       nudge_x = -0.15) +
+  scale_y_continuous(labels = percent) +
+  labs(x = "", y = "",
+       title = "",
+       fill = "Heart Disease") +
+  scale_fill_manual(values = c("green", "red")) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45))
+
+ggplotly(cplot)
+```
+
+
+```{r warning=FALSE, message=FALSE}
+names(hd_df)
+```
+
+#### Distribution 
+```{r warning=FALSE, message=FALSE}
+fig <- hd_df %>%
+  plot_ly(
+    x = ~`Heart Disease`,
+    y = ~`Age`, 
+    split = ~`Heart Disease`,
+    type = 'violin',box = list(visible = T), meanline = list(visible = T), 
+    colors = c("green", "red"), color = ~`Heart Disease`)  %>%
+  layout(
+    xaxis = list(title = "Heart Disease"),
+    yaxis = list(title = "",zeroline = F))
+
+fig 
+```
+
+#### Relationship 
+```{r warning=FALSE, message=FALSE}
+rplot <- hd_df %>% 
+ggplot(aes(x=`Age`, y = `Serum cholestoral in mg/dl`,
+           color = `Heart Disease`)) + 
+  scale_color_manual(values=c("green", "red")) +
+  geom_point(size=2) +
+  labs(color = "Heart Disease",
+       y = "",
+       x = "") +
+  theme_minimal()
+
+ggplotly(rplot)
+```
+
+#### Percent of Heart Disease Patients 
+```{r warning=FALSE, message=FALSE}
+# % of heart disease
+heart_cal <- hd_df %>% 
+  filter(`Heart Disease` == "Yes") %>% 
+  count()/nrow(hd_df)*100
+```
+
+
+```{r warning=FALSE, message=FALSE}
+heart_cal
+```
+
+
+```{r warning=FALSE, message=FALSE}
+names(hd_df)
+```
+
+
+```{r warning=FALSE, message=FALSE}
+hd_df
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+```{r warning=FALSE, message=FALSE}
+
+```
+
+
+
+
+
+

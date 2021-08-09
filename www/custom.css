@@ -1,0 +1,9 @@
+/* Edit the below for the header title hyperlink */
+.skin-black .main-header .logo>a {
+            color: black; /* color of the hyperlink text */
+            position: absolute;
+            top: 0;
+            left: 0;
+}
+
+

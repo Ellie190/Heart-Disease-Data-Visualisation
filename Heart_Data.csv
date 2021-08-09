@@ -1,0 +1,303 @@
+,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+0,63,Male,Asymptomatic,145,233,Yes,Normal,150,No,2.3,Upsloping,Mild,Fixed defect,Yes
+1,37,Male,Non-anginal pain,130,250,No,Abnormal,187,No,3.5,Upsloping,Mild,Reversible defect,Yes
+2,41,Female,Atypical angina,130,204,No,Normal,172,No,1.4,Downsloping,Mild,Reversible defect,Yes
+3,56,Male,Atypical angina,120,236,No,Abnormal,178,No,0.8,Downsloping,Mild,Reversible defect,Yes
+4,57,Female,Typical angina,120,354,No,Abnormal,163,Yes,0.6,Downsloping,Mild,Reversible defect,Yes
+5,57,Male,Typical angina,140,192,No,Abnormal,148,No,0.4,Flat,Mild,Fixed defect,Yes
+6,56,Female,Atypical angina,140,294,No,Normal,153,No,1.3,Flat,Mild,Reversible defect,Yes
+7,44,Male,Atypical angina,120,263,No,Abnormal,173,No,0.0,Downsloping,Mild,Extra Defect,Yes
+8,52,Male,Non-anginal pain,172,199,Yes,Abnormal,162,No,0.5,Downsloping,Mild,Extra Defect,Yes
+9,57,Male,Non-anginal pain,150,168,No,Abnormal,174,No,1.6,Downsloping,Mild,Reversible defect,Yes
+10,54,Male,Typical angina,140,239,No,Abnormal,160,No,1.2,Downsloping,Mild,Reversible defect,Yes
+11,48,Female,Non-anginal pain,130,275,No,Abnormal,139,No,0.2,Downsloping,Mild,Reversible defect,Yes
+12,49,Male,Atypical angina,130,266,No,Abnormal,171,No,0.6,Downsloping,Mild,Reversible defect,Yes
+13,64,Male,Asymptomatic,110,211,No,Normal,144,Yes,1.8,Flat,Mild,Reversible defect,Yes
+14,58,Female,Asymptomatic,150,283,Yes,Normal,162,No,1.0,Downsloping,Mild,Reversible defect,Yes
+15,50,Female,Non-anginal pain,120,219,No,Abnormal,158,No,1.6,Flat,Mild,Reversible defect,Yes
+16,58,Female,Non-anginal pain,120,340,No,Abnormal,172,No,0.0,Downsloping,Mild,Reversible defect,Yes
+17,66,Female,Asymptomatic,150,226,No,Abnormal,114,No,2.6,Upsloping,Mild,Reversible defect,Yes
+18,43,Male,Typical angina,150,247,No,Abnormal,171,No,1.5,Downsloping,Mild,Reversible defect,Yes
+19,69,Female,Asymptomatic,140,239,No,Abnormal,151,No,1.8,Downsloping,Mild Severe,Reversible defect,Yes
+20,59,Male,Typical angina,135,234,No,Abnormal,161,No,0.5,Flat,Mild,Extra Defect,Yes
+21,44,Male,Non-anginal pain,130,233,No,Abnormal,179,Yes,0.4,Downsloping,Mild,Reversible defect,Yes
+22,42,Male,Typical angina,140,226,No,Abnormal,178,No,0.0,Downsloping,Mild,Reversible defect,Yes
+23,61,Male,Non-anginal pain,150,243,Yes,Abnormal,137,Yes,1.0,Flat,Mild,Reversible defect,Yes
+24,40,Male,Asymptomatic,140,199,No,Abnormal,178,Yes,1.4,Downsloping,Mild,Extra Defect,Yes
+25,71,Female,Atypical angina,160,302,No,Abnormal,162,No,0.4,Downsloping,Mild Severe,Reversible defect,Yes
+26,59,Male,Non-anginal pain,150,212,Yes,Abnormal,157,No,1.6,Downsloping,Mild,Reversible defect,Yes
+27,51,Male,Non-anginal pain,110,175,No,Abnormal,123,No,0.6,Downsloping,Mild,Reversible defect,Yes
+28,65,Female,Non-anginal pain,140,417,Yes,Normal,157,No,0.8,Downsloping,Moderate,Reversible defect,Yes
+29,53,Male,Non-anginal pain,130,197,Yes,Normal,152,No,1.2,Upsloping,Mild,Reversible defect,Yes
+30,41,Female,Atypical angina,105,198,No,Abnormal,168,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+31,65,Male,Typical angina,120,177,No,Abnormal,140,No,0.4,Downsloping,Mild,Extra Defect,Yes
+32,44,Male,Atypical angina,130,219,No,Normal,188,No,0.0,Downsloping,Mild,Reversible defect,Yes
+33,54,Male,Non-anginal pain,125,273,No,Normal,152,No,0.5,Upsloping,Moderate,Reversible defect,Yes
+34,51,Male,Asymptomatic,125,213,No,Normal,125,Yes,1.4,Downsloping,Moderate,Reversible defect,Yes
+35,46,Female,Non-anginal pain,142,177,No,Normal,160,Yes,1.4,Upsloping,Mild,Reversible defect,Yes
+36,54,Female,Non-anginal pain,135,304,Yes,Abnormal,170,No,0.0,Downsloping,Mild,Reversible defect,Yes
+37,54,Male,Non-anginal pain,150,232,No,Normal,165,No,1.6,Downsloping,Mild,Extra Defect,Yes
+38,65,Female,Non-anginal pain,155,269,No,Abnormal,148,No,0.8,Downsloping,Mild,Reversible defect,Yes
+39,65,Female,Non-anginal pain,160,360,No,Normal,151,No,0.8,Downsloping,Mild,Reversible defect,Yes
+40,51,Female,Non-anginal pain,140,308,No,Normal,142,No,1.5,Downsloping,Moderate,Reversible defect,Yes
+41,48,Male,Atypical angina,130,245,No,Normal,180,No,0.2,Flat,Mild,Reversible defect,Yes
+42,45,Male,Typical angina,104,208,No,Normal,148,Yes,3.0,Flat,Mild,Reversible defect,Yes
+43,53,Female,Typical angina,130,264,No,Normal,143,No,0.4,Flat,Mild,Reversible defect,Yes
+44,39,Male,Non-anginal pain,140,321,No,Normal,182,No,0.0,Downsloping,Mild,Reversible defect,Yes
+45,52,Male,Atypical angina,120,325,No,Abnormal,172,No,0.2,Downsloping,Mild,Reversible defect,Yes
+46,44,Male,Non-anginal pain,140,235,No,Normal,180,No,0.0,Downsloping,Mild,Reversible defect,Yes
+47,47,Male,Non-anginal pain,138,257,No,Normal,156,No,0.0,Downsloping,Mild,Reversible defect,Yes
+48,53,Female,Non-anginal pain,128,216,No,Normal,115,No,0.0,Downsloping,Mild,Normal,Yes
+49,53,Female,Typical angina,138,234,No,Normal,160,No,0.0,Downsloping,Mild,Reversible defect,Yes
+50,51,Female,Non-anginal pain,130,256,No,Normal,149,No,0.5,Downsloping,Mild,Reversible defect,Yes
+51,66,Male,Typical angina,120,302,No,Normal,151,No,0.4,Flat,Mild,Reversible defect,Yes
+52,62,Male,Non-anginal pain,130,231,No,Abnormal,146,No,1.8,Flat,Moderate Severe,Extra Defect,Yes
+53,44,Female,Non-anginal pain,108,141,No,Abnormal,175,No,0.6,Flat,Mild,Reversible defect,Yes
+54,63,Female,Non-anginal pain,135,252,No,Normal,172,No,0.0,Downsloping,Mild,Reversible defect,Yes
+55,52,Male,Atypical angina,134,201,No,Abnormal,158,No,0.8,Downsloping,Moderate,Reversible defect,Yes
+56,48,Male,Typical angina,122,222,No,Normal,186,No,0.0,Downsloping,Mild,Reversible defect,Yes
+57,45,Male,Typical angina,115,260,No,Normal,185,No,0.0,Downsloping,Mild,Reversible defect,Yes
+58,34,Male,Asymptomatic,118,182,No,Normal,174,No,0.0,Downsloping,Mild,Reversible defect,Yes
+59,57,Female,Typical angina,128,303,No,Normal,159,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+60,71,Female,Non-anginal pain,110,265,Yes,Normal,130,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+61,54,Male,Atypical angina,108,309,No,Abnormal,156,No,0.0,Downsloping,Mild,Extra Defect,Yes
+62,52,Male,Asymptomatic,118,186,No,Normal,190,No,0.0,Flat,Mild,Fixed defect,Yes
+63,41,Male,Atypical angina,135,203,No,Abnormal,132,No,0.0,Flat,Mild,Fixed defect,Yes
+64,58,Male,Non-anginal pain,140,211,Yes,Normal,165,No,0.0,Downsloping,Mild,Reversible defect,Yes
+65,35,Female,Typical angina,138,183,No,Abnormal,182,No,1.4,Downsloping,Mild,Reversible defect,Yes
+66,51,Male,Non-anginal pain,100,222,No,Abnormal,143,Yes,1.2,Flat,Mild,Reversible defect,Yes
+67,45,Female,Atypical angina,130,234,No,Normal,175,No,0.6,Flat,Mild,Reversible defect,Yes
+68,44,Male,Atypical angina,120,220,No,Abnormal,170,No,0.0,Downsloping,Mild,Reversible defect,Yes
+69,62,Female,Typical angina,124,209,No,Abnormal,163,No,0.0,Downsloping,Mild,Reversible defect,Yes
+70,54,Male,Non-anginal pain,120,258,No,Normal,147,No,0.4,Flat,Mild,Extra Defect,Yes
+71,51,Male,Non-anginal pain,94,227,No,Abnormal,154,Yes,0.0,Downsloping,Moderate,Extra Defect,Yes
+72,29,Male,Atypical angina,130,204,No,Normal,202,No,0.0,Downsloping,Mild,Reversible defect,Yes
+73,51,Male,Typical angina,140,261,No,Normal,186,Yes,0.0,Downsloping,Mild,Reversible defect,Yes
+74,43,Female,Non-anginal pain,122,213,No,Abnormal,165,No,0.2,Flat,Mild,Reversible defect,Yes
+75,55,Female,Atypical angina,135,250,No,Normal,161,No,1.4,Flat,Mild,Reversible defect,Yes
+76,51,Male,Non-anginal pain,125,245,Yes,Normal,166,No,2.4,Flat,Mild,Reversible defect,Yes
+77,59,Male,Atypical angina,140,221,No,Abnormal,164,Yes,0.0,Downsloping,Mild,Reversible defect,Yes
+78,52,Male,Atypical angina,128,205,Yes,Abnormal,184,No,0.0,Downsloping,Mild,Reversible defect,Yes
+79,58,Male,Non-anginal pain,105,240,No,Normal,154,Yes,0.6,Flat,Mild,Extra Defect,Yes
+80,41,Male,Non-anginal pain,112,250,No,Abnormal,179,No,0.0,Downsloping,Mild,Reversible defect,Yes
+81,45,Male,Atypical angina,128,308,No,Normal,170,No,0.0,Downsloping,Mild,Reversible defect,Yes
+82,60,Female,Non-anginal pain,102,318,No,Abnormal,160,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+83,52,Male,Asymptomatic,152,298,Yes,Abnormal,178,No,1.2,Flat,Mild,Extra Defect,Yes
+84,42,Female,Typical angina,102,265,No,Normal,122,No,0.6,Flat,Mild,Reversible defect,Yes
+85,67,Female,Non-anginal pain,115,564,No,Normal,160,No,1.6,Flat,Mild,Extra Defect,Yes
+86,68,Male,Non-anginal pain,118,277,No,Abnormal,151,No,1.0,Downsloping,Moderate,Extra Defect,Yes
+87,46,Male,Atypical angina,101,197,Yes,Abnormal,156,No,0.0,Downsloping,Mild,Extra Defect,Yes
+88,54,Female,Non-anginal pain,110,214,No,Abnormal,158,No,1.6,Flat,Mild,Reversible defect,Yes
+89,58,Female,Typical angina,100,248,No,Normal,122,No,1.0,Flat,Mild,Reversible defect,Yes
+90,48,Male,Non-anginal pain,124,255,Yes,Abnormal,175,No,0.0,Downsloping,Mild Severe,Reversible defect,Yes
+91,57,Male,Typical angina,132,207,No,Abnormal,168,Yes,0.0,Downsloping,Mild,Extra Defect,Yes
+92,52,Male,Non-anginal pain,138,223,No,Abnormal,169,No,0.0,Downsloping,Extreme Severe,Reversible defect,Yes
+93,54,Female,Atypical angina,132,288,Yes,Normal,159,Yes,0.0,Downsloping,Moderate,Reversible defect,Yes
+94,45,Female,Atypical angina,112,160,No,Abnormal,138,No,0.0,Flat,Mild,Reversible defect,Yes
+95,53,Male,Typical angina,142,226,No,Normal,111,Yes,0.0,Downsloping,Mild,Extra Defect,Yes
+96,62,Female,Typical angina,140,394,No,Normal,157,No,1.2,Flat,Mild,Reversible defect,Yes
+97,52,Male,Typical angina,108,233,Yes,Abnormal,147,No,0.1,Downsloping,Moderate Severe,Extra Defect,Yes
+98,43,Male,Non-anginal pain,130,315,No,Abnormal,162,No,1.9,Downsloping,Moderate,Reversible defect,Yes
+99,53,Male,Non-anginal pain,130,246,Yes,Normal,173,No,0.0,Downsloping,Moderate Severe,Reversible defect,Yes
+100,42,Male,Asymptomatic,148,244,No,Normal,178,No,0.8,Downsloping,Mild Severe,Reversible defect,Yes
+101,59,Male,Asymptomatic,178,270,No,Normal,145,No,4.2,Upsloping,Mild,Extra Defect,Yes
+102,63,Female,Atypical angina,140,195,No,Abnormal,179,No,0.0,Downsloping,Mild Severe,Reversible defect,Yes
+103,42,Male,Non-anginal pain,120,240,Yes,Abnormal,194,No,0.8,Upsloping,Mild,Extra Defect,Yes
+104,50,Male,Non-anginal pain,129,196,No,Abnormal,163,No,0.0,Downsloping,Mild,Reversible defect,Yes
+105,68,Female,Non-anginal pain,120,211,No,Normal,115,No,1.5,Flat,Mild,Reversible defect,Yes
+106,69,Male,Asymptomatic,160,234,Yes,Normal,131,No,0.1,Flat,Moderate,Reversible defect,Yes
+107,45,Female,Typical angina,138,236,No,Normal,152,Yes,0.2,Flat,Mild,Reversible defect,Yes
+108,50,Female,Atypical angina,120,244,No,Abnormal,162,No,1.1,Downsloping,Mild,Reversible defect,Yes
+109,50,Female,Typical angina,110,254,No,Normal,159,No,0.0,Downsloping,Mild,Reversible defect,Yes
+110,64,Female,Typical angina,180,325,No,Abnormal,154,Yes,0.0,Downsloping,Mild,Reversible defect,Yes
+111,57,Male,Non-anginal pain,150,126,Yes,Abnormal,173,No,0.2,Downsloping,Moderate,Extra Defect,Yes
+112,64,Female,Non-anginal pain,140,313,No,Abnormal,133,No,0.2,Downsloping,Mild,Extra Defect,Yes
+113,43,Male,Typical angina,110,211,No,Abnormal,161,No,0.0,Downsloping,Mild,Extra Defect,Yes
+114,55,Male,Atypical angina,130,262,No,Abnormal,155,No,0.0,Downsloping,Mild,Reversible defect,Yes
+115,37,Female,Non-anginal pain,120,215,No,Abnormal,170,No,0.0,Downsloping,Mild,Reversible defect,Yes
+116,41,Male,Non-anginal pain,130,214,No,Normal,168,No,2.0,Flat,Mild,Reversible defect,Yes
+117,56,Male,Asymptomatic,120,193,No,Normal,162,No,1.9,Flat,Mild,Extra Defect,Yes
+118,46,Female,Atypical angina,105,204,No,Abnormal,172,No,0.0,Downsloping,Mild,Reversible defect,Yes
+119,46,Female,Typical angina,138,243,No,Normal,152,Yes,0.0,Flat,Mild,Reversible defect,Yes
+120,64,Female,Typical angina,130,303,No,Abnormal,122,No,2.0,Flat,Mild Severe,Reversible defect,Yes
+121,59,Male,Typical angina,138,271,No,Normal,182,No,0.0,Downsloping,Mild,Reversible defect,Yes
+122,41,Female,Non-anginal pain,112,268,No,Normal,172,Yes,0.0,Downsloping,Mild,Reversible defect,Yes
+123,54,Female,Non-anginal pain,108,267,No,Normal,167,No,0.0,Downsloping,Mild,Reversible defect,Yes
+124,39,Female,Non-anginal pain,94,199,No,Abnormal,179,No,0.0,Downsloping,Mild,Reversible defect,Yes
+125,34,Female,Atypical angina,118,210,No,Abnormal,192,No,0.7,Downsloping,Mild,Reversible defect,Yes
+126,47,Male,Typical angina,112,204,No,Abnormal,143,No,0.1,Downsloping,Mild,Reversible defect,Yes
+127,67,Female,Non-anginal pain,152,277,No,Abnormal,172,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+128,52,Female,Non-anginal pain,136,196,No,Normal,169,No,0.1,Flat,Mild,Reversible defect,Yes
+129,74,Female,Atypical angina,120,269,No,Normal,121,Yes,0.2,Downsloping,Moderate,Reversible defect,Yes
+130,54,Female,Non-anginal pain,160,201,No,Abnormal,163,No,0.0,Downsloping,Moderate,Reversible defect,Yes
+131,49,Female,Atypical angina,134,271,No,Abnormal,162,No,0.0,Flat,Mild,Reversible defect,Yes
+132,42,Male,Atypical angina,120,295,No,Abnormal,162,No,0.0,Downsloping,Mild,Reversible defect,Yes
+133,41,Male,Atypical angina,110,235,No,Abnormal,153,No,0.0,Downsloping,Mild,Reversible defect,Yes
+134,41,Female,Atypical angina,126,306,No,Abnormal,163,No,0.0,Downsloping,Mild,Reversible defect,Yes
+135,49,Female,Typical angina,130,269,No,Abnormal,163,No,0.0,Downsloping,Mild,Reversible defect,Yes
+136,60,Female,Non-anginal pain,120,178,Yes,Abnormal,96,No,0.0,Downsloping,Mild,Reversible defect,Yes
+137,62,Male,Atypical angina,128,208,Yes,Normal,140,No,0.0,Downsloping,Mild,Reversible defect,Yes
+138,57,Male,Typical angina,110,201,No,Abnormal,126,Yes,1.5,Flat,Mild,Fixed defect,Yes
+139,64,Male,Typical angina,128,263,No,Abnormal,105,Yes,0.2,Flat,Moderate,Extra Defect,Yes
+140,51,Female,Non-anginal pain,120,295,No,Normal,157,No,0.6,Downsloping,Mild,Reversible defect,Yes
+141,43,Male,Typical angina,115,303,No,Abnormal,181,No,1.2,Flat,Mild,Reversible defect,Yes
+142,42,Female,Non-anginal pain,120,209,No,Abnormal,173,No,0.0,Flat,Mild,Reversible defect,Yes
+143,67,Female,Typical angina,106,223,No,Abnormal,142,No,0.3,Downsloping,Mild Severe,Reversible defect,Yes
+144,76,Female,Non-anginal pain,140,197,No,Ventricular hypertrophy,116,No,1.1,Flat,Mild,Reversible defect,Yes
+145,70,Male,Atypical angina,156,245,No,Normal,143,No,0.0,Downsloping,Mild,Reversible defect,Yes
+146,44,Female,Non-anginal pain,118,242,No,Abnormal,149,No,0.3,Flat,Moderate,Reversible defect,Yes
+147,60,Female,Asymptomatic,150,240,No,Abnormal,171,No,0.9,Downsloping,Mild,Reversible defect,Yes
+148,44,Male,Non-anginal pain,120,226,No,Abnormal,169,No,0.0,Downsloping,Mild,Reversible defect,Yes
+149,42,Male,Non-anginal pain,130,180,No,Abnormal,150,No,0.0,Downsloping,Mild,Reversible defect,Yes
+150,66,Male,Typical angina,160,228,No,Normal,138,No,2.3,Downsloping,Mild,Fixed defect,Yes
+151,71,Female,Typical angina,112,149,No,Abnormal,125,No,1.6,Flat,Mild,Reversible defect,Yes
+152,64,Male,Asymptomatic,170,227,No,Normal,155,No,0.6,Flat,Mild,Extra Defect,Yes
+153,66,Female,Non-anginal pain,146,278,No,Normal,152,No,0.0,Flat,Moderate,Reversible defect,Yes
+154,39,Female,Non-anginal pain,138,220,No,Abnormal,152,No,0.0,Flat,Mild,Reversible defect,Yes
+155,58,Female,Typical angina,130,197,No,Abnormal,131,No,0.6,Flat,Mild,Reversible defect,Yes
+156,47,Male,Non-anginal pain,130,253,No,Abnormal,179,No,0.0,Downsloping,Mild,Reversible defect,Yes
+157,35,Male,Atypical angina,122,192,No,Abnormal,174,No,0.0,Downsloping,Mild,Reversible defect,Yes
+158,58,Male,Atypical angina,125,220,No,Abnormal,144,No,0.4,Flat,Extreme Severe,Extra Defect,Yes
+159,56,Male,Atypical angina,130,221,No,Normal,163,No,0.0,Downsloping,Mild,Extra Defect,Yes
+160,56,Male,Atypical angina,120,240,No,Abnormal,169,No,0.0,Upsloping,Mild,Reversible defect,Yes
+161,55,Female,Atypical angina,132,342,No,Abnormal,166,No,1.2,Downsloping,Mild,Reversible defect,Yes
+162,41,Male,Atypical angina,120,157,No,Abnormal,182,No,0.0,Downsloping,Mild,Reversible defect,Yes
+163,38,Male,Non-anginal pain,138,175,No,Abnormal,173,No,0.0,Downsloping,Extreme Severe,Reversible defect,Yes
+165,67,Male,Typical angina,160,286,No,Normal,108,Yes,1.5,Flat,Moderate Severe,Reversible defect,No
+166,67,Male,Typical angina,120,229,No,Normal,129,Yes,2.6,Flat,Mild Severe,Extra Defect,No
+167,62,Female,Typical angina,140,268,No,Normal,160,No,3.6,Upsloping,Mild Severe,Reversible defect,No
+168,63,Male,Typical angina,130,254,No,Normal,147,No,1.4,Flat,Moderate,Extra Defect,No
+169,53,Male,Typical angina,140,203,Yes,Normal,155,Yes,3.1,Upsloping,Mild,Extra Defect,No
+170,56,Male,Non-anginal pain,130,256,Yes,Normal,142,Yes,0.6,Flat,Moderate,Fixed defect,No
+171,48,Male,Atypical angina,110,229,No,Abnormal,168,No,1.0,Upsloping,Mild,Extra Defect,No
+172,58,Male,Atypical angina,120,284,No,Normal,160,No,1.8,Flat,Mild,Reversible defect,No
+173,58,Male,Non-anginal pain,132,224,No,Normal,173,No,3.2,Downsloping,Mild Severe,Extra Defect,No
+174,60,Male,Typical angina,130,206,No,Normal,132,Yes,2.4,Flat,Mild Severe,Extra Defect,No
+175,40,Male,Typical angina,110,167,No,Normal,114,Yes,2.0,Flat,Mild,Extra Defect,No
+176,60,Male,Typical angina,117,230,Yes,Abnormal,160,Yes,1.4,Downsloping,Mild Severe,Extra Defect,No
+177,64,Male,Non-anginal pain,140,335,No,Abnormal,158,No,0.0,Downsloping,Mild,Reversible defect,No
+178,43,Male,Typical angina,120,177,No,Normal,120,Yes,2.5,Flat,Mild,Extra Defect,No
+179,57,Male,Typical angina,150,276,No,Normal,112,Yes,0.6,Flat,Moderate,Fixed defect,No
+180,55,Male,Typical angina,132,353,No,Abnormal,132,Yes,1.2,Flat,Moderate,Extra Defect,No
+181,65,Female,Typical angina,150,225,No,Normal,114,No,1.0,Flat,Moderate Severe,Extra Defect,No
+182,61,Female,Typical angina,130,330,No,Normal,169,No,0.0,Downsloping,Mild,Reversible defect,No
+183,58,Male,Non-anginal pain,112,230,No,Normal,165,No,2.5,Flat,Moderate,Extra Defect,No
+184,50,Male,Typical angina,150,243,No,Normal,128,No,2.6,Flat,Mild,Extra Defect,No
+185,44,Male,Typical angina,112,290,No,Normal,153,No,0.0,Downsloping,Moderate,Reversible defect,No
+186,60,Male,Typical angina,130,253,No,Abnormal,144,Yes,1.4,Downsloping,Moderate,Extra Defect,No
+187,54,Male,Typical angina,124,266,No,Normal,109,Yes,2.2,Flat,Moderate,Extra Defect,No
+188,50,Male,Non-anginal pain,140,233,No,Abnormal,163,No,0.6,Flat,Moderate,Extra Defect,No
+189,41,Male,Typical angina,110,172,No,Normal,158,No,0.0,Downsloping,Mild,Extra Defect,No
+190,51,Female,Typical angina,130,305,No,Abnormal,142,Yes,1.2,Flat,Mild,Extra Defect,No
+191,58,Male,Typical angina,128,216,No,Normal,131,Yes,2.2,Flat,Moderate Severe,Extra Defect,No
+192,54,Male,Typical angina,120,188,No,Abnormal,113,No,1.4,Flat,Moderate,Extra Defect,No
+193,60,Male,Typical angina,145,282,No,Normal,142,Yes,2.8,Flat,Mild Severe,Extra Defect,No
+194,60,Male,Non-anginal pain,140,185,No,Normal,155,No,3.0,Flat,Mild,Reversible defect,No
+195,59,Male,Typical angina,170,326,No,Normal,140,Yes,3.4,Upsloping,Mild,Extra Defect,No
+196,46,Male,Non-anginal pain,150,231,No,Abnormal,147,No,3.6,Flat,Mild,Reversible defect,No
+197,67,Male,Typical angina,125,254,Yes,Abnormal,163,No,0.2,Flat,Mild Severe,Extra Defect,No
+198,62,Male,Typical angina,120,267,No,Abnormal,99,Yes,1.8,Flat,Mild Severe,Extra Defect,No
+199,65,Male,Typical angina,110,248,No,Normal,158,No,0.6,Downsloping,Mild Severe,Fixed defect,No
+200,44,Male,Typical angina,110,197,No,Normal,177,No,0.0,Downsloping,Moderate,Reversible defect,No
+201,60,Male,Typical angina,125,258,No,Normal,141,Yes,2.8,Flat,Moderate,Extra Defect,No
+202,58,Male,Typical angina,150,270,No,Normal,111,Yes,0.8,Downsloping,Mild,Extra Defect,No
+203,68,Male,Non-anginal pain,180,274,Yes,Normal,150,Yes,1.6,Flat,Mild,Extra Defect,No
+204,62,Female,Typical angina,160,164,No,Normal,145,No,6.2,Upsloping,Moderate Severe,Extra Defect,No
+205,52,Male,Typical angina,128,255,No,Abnormal,161,Yes,0.0,Downsloping,Moderate,Extra Defect,No
+206,59,Male,Typical angina,110,239,No,Normal,142,Yes,1.2,Flat,Moderate,Extra Defect,No
+207,60,Female,Typical angina,150,258,No,Normal,157,No,2.6,Flat,Mild Severe,Extra Defect,No
+208,49,Male,Non-anginal pain,120,188,No,Abnormal,139,No,2.0,Flat,Moderate Severe,Extra Defect,No
+209,59,Male,Typical angina,140,177,No,Abnormal,162,Yes,0.0,Downsloping,Moderate,Extra Defect,No
+210,57,Male,Non-anginal pain,128,229,No,Normal,150,No,0.4,Flat,Moderate,Extra Defect,No
+211,61,Male,Typical angina,120,260,No,Abnormal,140,Yes,3.6,Flat,Moderate,Extra Defect,No
+212,39,Male,Typical angina,118,219,No,Abnormal,140,No,1.2,Flat,Mild,Extra Defect,No
+213,61,Female,Typical angina,145,307,No,Normal,146,Yes,1.0,Flat,Mild,Extra Defect,No
+214,56,Male,Typical angina,125,249,Yes,Normal,144,Yes,1.2,Flat,Moderate,Reversible defect,No
+215,43,Female,Typical angina,132,341,Yes,Normal,136,Yes,3.0,Flat,Mild,Extra Defect,No
+216,62,Female,Non-anginal pain,130,263,No,Abnormal,97,No,1.2,Flat,Moderate,Extra Defect,No
+217,63,Male,Typical angina,130,330,Yes,Normal,132,Yes,1.8,Downsloping,Moderate Severe,Extra Defect,No
+218,65,Male,Typical angina,135,254,No,Normal,127,No,2.8,Flat,Moderate,Extra Defect,No
+219,48,Male,Typical angina,130,256,Yes,Normal,150,Yes,0.0,Downsloping,Mild Severe,Extra Defect,No
+220,63,Female,Typical angina,150,407,No,Normal,154,No,4.0,Flat,Moderate Severe,Extra Defect,No
+221,55,Male,Typical angina,140,217,No,Abnormal,111,Yes,5.6,Upsloping,Mild,Extra Defect,No
+222,65,Male,Asymptomatic,138,282,Yes,Normal,174,No,1.4,Flat,Moderate,Reversible defect,No
+223,56,Female,Typical angina,200,288,Yes,Normal,133,Yes,4.0,Upsloping,Mild Severe,Extra Defect,No
+224,54,Male,Typical angina,110,239,No,Abnormal,126,Yes,2.8,Flat,Moderate,Extra Defect,No
+225,70,Male,Typical angina,145,174,No,Abnormal,125,Yes,2.6,Upsloping,Mild,Extra Defect,No
+226,62,Male,Atypical angina,120,281,No,Normal,103,No,1.4,Flat,Moderate,Extra Defect,No
+227,35,Male,Typical angina,120,198,No,Abnormal,130,Yes,1.6,Flat,Mild,Extra Defect,No
+228,59,Male,Asymptomatic,170,288,No,Normal,159,No,0.2,Flat,Mild,Extra Defect,No
+229,64,Male,Non-anginal pain,125,309,No,Abnormal,131,Yes,1.8,Flat,Mild,Extra Defect,No
+230,47,Male,Non-anginal pain,108,243,No,Abnormal,152,No,0.0,Downsloping,Mild,Reversible defect,No
+231,57,Male,Typical angina,165,289,Yes,Normal,124,No,1.0,Flat,Moderate Severe,Extra Defect,No
+232,55,Male,Typical angina,160,289,No,Normal,145,Yes,0.8,Flat,Moderate,Extra Defect,No
+233,64,Male,Typical angina,120,246,No,Normal,96,Yes,2.2,Upsloping,Moderate,Reversible defect,No
+234,70,Male,Typical angina,130,322,No,Normal,109,No,2.4,Flat,Moderate Severe,Reversible defect,No
+235,51,Male,Typical angina,140,299,No,Abnormal,173,Yes,1.6,Downsloping,Mild,Extra Defect,No
+236,58,Male,Typical angina,125,300,No,Normal,171,No,0.0,Downsloping,Mild Severe,Extra Defect,No
+237,60,Male,Typical angina,140,293,No,Normal,170,No,1.2,Flat,Mild Severe,Extra Defect,No
+238,77,Male,Typical angina,125,304,No,Normal,162,Yes,0.0,Downsloping,Moderate Severe,Reversible defect,No
+239,35,Male,Typical angina,126,282,No,Normal,156,Yes,0.0,Downsloping,Mild,Extra Defect,No
+240,70,Male,Non-anginal pain,160,269,No,Abnormal,112,Yes,2.9,Flat,Moderate,Extra Defect,No
+241,59,Female,Typical angina,174,249,No,Abnormal,143,Yes,0.0,Flat,Mild,Reversible defect,No
+242,64,Male,Typical angina,145,212,No,Normal,132,No,2.0,Flat,Mild Severe,Fixed defect,No
+243,57,Male,Typical angina,152,274,No,Abnormal,88,Yes,1.2,Flat,Moderate,Extra Defect,No
+244,56,Male,Typical angina,132,184,No,Normal,105,Yes,2.1,Flat,Moderate,Fixed defect,No
+245,48,Male,Typical angina,124,274,No,Normal,166,No,0.5,Flat,Mild,Extra Defect,No
+246,56,Female,Typical angina,134,409,No,Normal,150,Yes,1.9,Flat,Mild Severe,Extra Defect,No
+247,66,Male,Atypical angina,160,246,No,Abnormal,120,Yes,0.0,Flat,Moderate Severe,Fixed defect,No
+248,54,Male,Atypical angina,192,283,No,Normal,195,No,0.0,Downsloping,Moderate,Extra Defect,No
+249,69,Male,Non-anginal pain,140,254,No,Normal,146,No,2.0,Flat,Moderate Severe,Extra Defect,No
+250,51,Male,Typical angina,140,298,No,Abnormal,122,Yes,4.2,Flat,Moderate Severe,Extra Defect,No
+251,43,Male,Typical angina,132,247,Yes,Normal,143,Yes,0.1,Flat,Extreme Severe,Extra Defect,No
+252,62,Female,Typical angina,138,294,Yes,Abnormal,106,No,1.9,Flat,Moderate Severe,Reversible defect,No
+253,67,Male,Typical angina,100,299,No,Normal,125,Yes,0.9,Flat,Mild Severe,Reversible defect,No
+254,59,Male,Asymptomatic,160,273,No,Normal,125,No,0.0,Downsloping,Mild,Reversible defect,No
+255,45,Male,Typical angina,142,309,No,Normal,147,Yes,0.0,Flat,Moderate Severe,Extra Defect,No
+256,58,Male,Typical angina,128,259,No,Normal,130,Yes,3.0,Flat,Mild Severe,Extra Defect,No
+257,50,Male,Typical angina,144,200,No,Normal,126,Yes,0.9,Flat,Mild,Extra Defect,No
+258,62,Female,Typical angina,150,244,No,Abnormal,154,Yes,1.4,Flat,Mild,Reversible defect,No
+259,38,Male,Asymptomatic,120,231,No,Abnormal,182,Yes,3.8,Flat,Mild,Extra Defect,No
+260,66,Female,Typical angina,178,228,Yes,Abnormal,165,Yes,1.0,Flat,Mild Severe,Extra Defect,No
+261,52,Male,Typical angina,112,230,No,Abnormal,160,No,0.0,Downsloping,Moderate,Reversible defect,No
+262,53,Male,Typical angina,123,282,No,Abnormal,95,Yes,2.0,Flat,Mild Severe,Extra Defect,No
+263,63,Female,Typical angina,108,269,No,Abnormal,169,Yes,1.8,Flat,Mild Severe,Reversible defect,No
+264,54,Male,Typical angina,110,206,No,Normal,108,Yes,0.0,Flat,Moderate,Reversible defect,No
+265,66,Male,Typical angina,112,212,No,Normal,132,Yes,0.1,Downsloping,Moderate,Reversible defect,No
+266,55,Female,Typical angina,180,327,No,Ventricular hypertrophy,117,Yes,3.4,Flat,Mild,Reversible defect,No
+267,49,Male,Non-anginal pain,118,149,No,Normal,126,No,0.8,Downsloping,Moderate Severe,Reversible defect,No
+268,54,Male,Typical angina,122,286,No,Normal,116,Yes,3.2,Flat,Mild Severe,Reversible defect,No
+269,56,Male,Typical angina,130,283,Yes,Normal,103,Yes,1.6,Upsloping,Mild,Extra Defect,No
+270,46,Male,Typical angina,120,249,No,Normal,144,No,0.8,Downsloping,Mild,Extra Defect,No
+271,61,Male,Asymptomatic,134,234,No,Abnormal,145,No,2.6,Flat,Mild Severe,Reversible defect,No
+272,67,Male,Typical angina,120,237,No,Abnormal,71,No,1.0,Flat,Mild,Reversible defect,No
+273,58,Male,Typical angina,100,234,No,Abnormal,156,No,0.1,Downsloping,Moderate,Extra Defect,No
+274,47,Male,Typical angina,110,275,No,Normal,118,Yes,1.0,Flat,Moderate,Reversible defect,No
+275,52,Male,Typical angina,125,212,No,Abnormal,168,No,1.0,Downsloping,Mild Severe,Extra Defect,No
+276,58,Male,Typical angina,146,218,No,Abnormal,105,No,2.0,Flat,Moderate,Extra Defect,No
+277,57,Male,Atypical angina,124,261,No,Abnormal,141,No,0.3,Downsloping,Mild,Extra Defect,No
+278,58,Female,Atypical angina,136,319,Yes,Normal,152,No,0.0,Downsloping,Mild Severe,Reversible defect,No
+279,61,Male,Typical angina,138,166,No,Normal,125,Yes,3.6,Flat,Moderate,Reversible defect,No
+280,42,Male,Typical angina,136,315,No,Abnormal,125,Yes,1.8,Flat,Mild,Fixed defect,No
+281,52,Male,Typical angina,128,204,Yes,Abnormal,156,Yes,1.0,Flat,Mild,Normal,No
+282,59,Male,Non-anginal pain,126,218,Yes,Abnormal,134,No,2.2,Flat,Moderate,Fixed defect,No
+283,40,Male,Typical angina,152,223,No,Abnormal,181,No,0.0,Downsloping,Mild,Extra Defect,No
+284,61,Male,Typical angina,140,207,No,Normal,138,Yes,1.9,Downsloping,Moderate,Extra Defect,No
+285,46,Male,Typical angina,140,311,No,Abnormal,120,Yes,1.8,Flat,Mild Severe,Extra Defect,No
+286,59,Male,Asymptomatic,134,204,No,Abnormal,162,No,0.8,Downsloping,Mild Severe,Reversible defect,No
+287,57,Male,Atypical angina,154,232,No,Normal,164,No,0.0,Downsloping,Moderate,Reversible defect,No
+288,57,Male,Typical angina,110,335,No,Abnormal,143,Yes,3.0,Flat,Moderate,Extra Defect,No
+289,55,Female,Typical angina,128,205,No,Ventricular hypertrophy,130,Yes,2.0,Flat,Moderate,Extra Defect,No
+290,61,Male,Typical angina,148,203,No,Abnormal,161,No,0.0,Downsloping,Moderate,Extra Defect,No
+291,58,Male,Typical angina,114,318,No,Ventricular hypertrophy,140,No,4.4,Upsloping,Moderate Severe,Fixed defect,No
+292,58,Female,Typical angina,170,225,Yes,Normal,146,Yes,2.8,Flat,Mild Severe,Fixed defect,No
+293,67,Male,Non-anginal pain,152,212,No,Normal,150,No,0.8,Flat,Mild,Extra Defect,No
+294,44,Male,Typical angina,120,169,No,Abnormal,144,Yes,2.8,Upsloping,Mild,Fixed defect,No
+295,63,Male,Typical angina,140,187,No,Normal,144,Yes,4.0,Downsloping,Mild Severe,Extra Defect,No
+296,63,Female,Typical angina,124,197,No,Abnormal,136,Yes,0.0,Flat,Mild,Reversible defect,No
+297,59,Male,Typical angina,164,176,Yes,Normal,90,No,1.0,Flat,Mild Severe,Fixed defect,No
+298,57,Female,Typical angina,140,241,No,Abnormal,123,Yes,0.2,Flat,Mild,Extra Defect,No
+299,45,Male,Asymptomatic,110,264,No,Abnormal,132,No,1.2,Flat,Mild,Extra Defect,No
+300,68,Male,Typical angina,144,193,Yes,Abnormal,141,No,3.4,Flat,Mild Severe,Extra Defect,No
+301,57,Male,Typical angina,130,131,No,Abnormal,115,Yes,1.2,Flat,Moderate,Extra Defect,No
+302,57,Female,Atypical angina,130,236,No,Normal,174,No,0.0,Flat,Moderate,Reversible defect,No
