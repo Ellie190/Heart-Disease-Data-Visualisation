@@ -4,6 +4,12 @@ R Shiny Dashboard for visualizing the heart disease data set
 ## Indicators 
 `What is an indicator?`: A thing that indicates the state or level of something. E.g., Chest pain is used as an indicator for heart disease. 
 
+## Probabilistic Machine learning for Heart Disease Diagnosis
+**Other sources in relation to the heart disease data visualisation repository** <br> 
+- Repository Link: https://github.com/Ellie190/Heart-Disease-Project-AML
+- Notebook: https://github.com/Ellie190/Heart-Disease-Project-AML/blob/main/Heart_Disease_Project_Notebook.ipynb
+
+
 ## Comparison of Patient Indicators 
 - This section helps answer the question: `How does the classes/symptoms of the heart disease indicators vary in numbers/percentage according to patients that are heart disease positive or negative?`
 - The positive legend is an indication of heart disease. If a patient has heart disease then it is a `Yes` and if a patient does not have heart disease then it is a `No`.
