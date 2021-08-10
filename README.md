@@ -15,7 +15,7 @@ R Shiny Dashboard for visualizing the heart disease data set
 
 
 ## Distribution of Patient Indicators
-- This section helps answer the question: `How are the measurable/numerical indicators distributed according to the patients that have heart disease and patients that do not heart disease?`
+- This section helps answer the question: `How are the measurable/numerical indicators distributed according to patients that have heart disease and patients that do not heart disease?`
 - This can inform on the likely ranges the measurable/numerical indicators take for patients that have heart disease and patients that do not heart disease. 
 - This provides a statistical summary of the measurable/numerical indicators. 
 ![Figure 3](https://github.com/Ellie190/Heart-Disease-Data-Visualisation/blob/main/Sample%20Images/HD3.png)
