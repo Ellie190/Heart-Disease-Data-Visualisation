@@ -7,7 +7,7 @@ R Shiny Dashboard for visualizing the heart disease data set
 ## Comparison of Patient Indicators 
 - This section helps answer the question: `How does the classes/symptoms of the heart disease indicators vary in numbers/percentage according to patients that are heart disease positive or negative?`
 - The positive legend is an indication of heart disease. If a patient has heart disease then it is `Yes` and if a patient does not have heart disease then it is `No`.
-- This can inform on how symptons vary in numbers based on the population examined for heart disease. E.g., from the figure below, it is evident that most of the patients that exhibit `Ventricular hypertrophy` for `Resting electrocardiography results` do not have heart disease (green). 
+- This can inform on how symptoms vary in numbers based on the population examined for heart disease. E.g., from the figure below, it is evident that most patients that exhibit `Typical angina` for `Chest pain type` do not have heart disease (green). 
 - The guage displays the percentage of patients that have heart disease from the population examined. In this case, 54% of the patients have heart disease.
 - The user can filter through the indicators for different results. 
 ![Figure 1](https://github.com/Ellie190/Heart-Disease-Data-Visualisation/blob/main/Sample%20Images/HD1.png)
