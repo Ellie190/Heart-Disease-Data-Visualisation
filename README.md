@@ -20,7 +20,7 @@ R Shiny Dashboard for visualizing the heart disease data set
 - This provides a statistical summary of the measurable/numerical indicators. 
 ![Figure 3](https://github.com/Ellie190/Heart-Disease-Data-Visualisation/blob/main/Sample%20Images/HD3.png)
 
-## Relationship between patient indicators 
+## Relationship between Patient Indicators 
 - This section helps answer the question(s): `What relationship does the indicators have with one anaother?`
 - This can also inform correlation and outliers present in the data captured from patients examined for heart disease. 
 ![Figure 4](https://github.com/Ellie190/Heart-Disease-Data-Visualisation/blob/main/Sample%20Images/HD4.png)
