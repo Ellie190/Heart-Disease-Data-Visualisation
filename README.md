@@ -9,6 +9,9 @@ R Shiny Dashboard for visualizing the heart disease data set
 - Repository Link: https://github.com/Ellie190/Heart-Disease-Project-AML
 - Notebook: https://github.com/Ellie190/Heart-Disease-Project-AML/blob/main/Heart_Disease_Project_Notebook.ipynb
 
+## Web application link
+https://eli2.shinyapps.io/Heart-Disease-Data-Visualisation/
+
 
 ## Comparison of Patient Indicators 
 - This section helps answer the question: `How does the classes/symptoms of the heart disease indicators vary in numbers/percentage according to patients that are heart disease positive or negative?`
