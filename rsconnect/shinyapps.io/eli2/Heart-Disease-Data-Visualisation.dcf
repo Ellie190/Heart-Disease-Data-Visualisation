@@ -4,11 +4,11 @@ username:
 account: eli2
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 4479583
-bundleId: 4910800
+appId: 5044583
+bundleId: 5213208
 url: https://eli2.shinyapps.io/Heart-Disease-Data-Visualisation/
-when: 1628672077.4823
-lastSyncTime: 1628672077.4823
+when: 1636038787.29253
+lastSyncTime: 1636038787.29253
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .ipynb_checkpoints/Cleaned_Heart_Data-checkpoint.ipynb|.RData|Cleaned_Heart_Data.ipynb|Heart.csv|Heart_Data_Analysis.Rmd|LICENSE|README.md|requirements.txt|Sample Images/HD1.png|Sample Images/HD2.png|Sample Images/HD3.png|Sample Images/HD4.png|Sample Images/HD5.png
+ignoredFiles: .ipynb_checkpoints/Cleaned_Heart_Data-checkpoint.ipynb|.RData|Cleaned_Heart_Data.ipynb|Heart.csv|Heart_Data_Analysis.Rmd|LICENSE|README.md|Sample Images/HD1.png|Sample Images/HD2.png|Sample Images/HD3.png|Sample Images/HD4.png|Sample Images/HD5.png
